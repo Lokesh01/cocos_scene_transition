@@ -1,0 +1,3 @@
+# Ignore static libraries
+*.a
+frameworks/
